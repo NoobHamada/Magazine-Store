@@ -32,7 +32,7 @@ hr {
 
 img {
     height: 400px;
-    width: calc( 95% / 2);
+    width: calc( 90% / 2);
     border-radius: 5px;
     transition: 2s;
     filter: grayscale(100%);
